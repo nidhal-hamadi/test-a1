@@ -1,0 +1,17 @@
+.test-a1{
+    color: bisque;
+    font-size: 50px;
+    margin-bottom: 10%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  input,select, textarea{
+    margin-top:  2%;
+    background-color: rgb(86, 105, 105)!important;
+    border: 3px rgb(0, 0, 0) solid !important ;
+    }
+    #but{
+        margin-top: 2%;
+      width: 50%;
+        background-color: black; 
+        margin-left: 25%;
+      } 
